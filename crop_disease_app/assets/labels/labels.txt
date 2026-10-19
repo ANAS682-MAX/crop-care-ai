@@ -1,0 +1,12 @@
+Healthy
+Tomato Late Blight
+Tomato Early Blight
+Tomato Leaf Mold
+Maize Leaf Blight
+Maize Common Rust
+Potato Late Blight
+Potato Early Blight
+Cassava Mosaic Disease
+Cassava Brown Streak
+Bean Angular Leaf Spot
+Bean Rust
